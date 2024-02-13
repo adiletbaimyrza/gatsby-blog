@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Adilet Writes`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Adilet Baimyrza`,
+      summary: `who studies at the University of Lodz and writes here about front-end development.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Adilet Baimyrza Uulu's Personal Blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `adiletbaimyrza`,
     },
   },
   plugins: [
@@ -113,7 +113,7 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `Gatsby`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#0e0e0e`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
